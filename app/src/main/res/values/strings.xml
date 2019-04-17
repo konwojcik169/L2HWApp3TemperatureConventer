@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Temperature Conventer</string>
+    <string name="radioButton">Celcius to Fahrenheit</string>
+    <string name="radioButton2">Fahrenheit to Celcius</string>
+    <string name="editText">Temperature in Celcius</string>
+    <string name="editText2">Temperature in Fahrenheit</string>
+    <string name="textView">Result</string>
+    <string name="button">Calculate</string>
+</resources>
